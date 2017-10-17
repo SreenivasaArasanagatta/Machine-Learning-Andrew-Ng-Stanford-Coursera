@@ -1,0 +1,9 @@
+***********************************************************
+git add .
+git status
+git commit -m "Advice for Applying Machine Learning"
+git remote add origin https://github.com/SreenivasaArasanagatta/Machine-Learning-Andrew-Ng-Stanford-Coursera-PYTHON.git
+git push
+
+
+***********************************************************
